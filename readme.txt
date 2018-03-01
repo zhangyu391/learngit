@@ -4,4 +4,4 @@ Git is abcdefg.
 Git is 123.
 Creating a new branch is quick.
 GIt one two three.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
