@@ -1,5 +1,5 @@
 <?php
-
+echo 1;die;
 $a = array_rand(range(1, 10000), 3000);
 
 shuffle($a);
